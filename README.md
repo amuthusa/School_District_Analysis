@@ -13,3 +13,12 @@
   Created bins to categorize the spending range or school size to see the insights into performance ![Spending categorized performance summary view](images/Spending_Range_Performance_Summary_View.png) ![Students count categorized performance summary view](images/School_Size_Range_Performance_Summary_View.png)
   Another perspective to the insights was created to look at school type and its impact on students performance ![SchoolType based performance summary view](images/SchoolType_Based_Performance_Summary_View.png)
   
+## Challenge:
+
+### Overview:
+   Thomas High School 9th grader math and reading scores repoted is incorrect. Lets make adjustment to the data and create the insights.
+   
+### Analysis:
+    Since Thomas High School 9th grade math and reading scores were incorrect we replaced them with Not a number to adjust the analysis. Based on the district summary we could see the new perspective, though the average scores didn't change much the %passed math, %passed reading and %Overall passing dipped by 1%.[District Summary View](images/District_Summary_View_Challenge.png)
+    Thomas High School's %Passing in math,reading,overall dropped to mid 60% while it was in 90% before the adjustment. ![Per School Summary based on the budget](images/Per_School_Summary_View_Challenge.png).
+    Except the Thomas High School data was not ther, there is no major change in the grade wise math and reading scores. Thomas High School dropped from top 5 ![Top 5 Schools based on Overall Passing %](images/Top_5_Schools_Overall_Passing_View_Challenge.png)
